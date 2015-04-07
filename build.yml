@@ -19,7 +19,6 @@ iphone:
   entitlements: ./production/Entitlements.plist
   provisionprofile: 
   codesignidentity: "iPhone Developer"
-  entitlements: 
   BundleIdentifier: "com.rhomobile.vpnretestapp"
   BundleURLScheme: "vpnretestapp"
   emulatortarget: "iphone"
